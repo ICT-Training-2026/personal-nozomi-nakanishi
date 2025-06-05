@@ -1,5 +1,5 @@
   package store;
 
-public slass Produst3 {
+public class Produst3 {
 
 }
